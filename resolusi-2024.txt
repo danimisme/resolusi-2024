@@ -3,6 +3,7 @@
 -mengerti tailwind
 -membuat landing page
 *frame work JavaScript 
+-react JS 
 -belajar vue js
 *frame work PHP
 -lavarel
