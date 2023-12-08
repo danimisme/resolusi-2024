@@ -2,5 +2,6 @@
 -mengerti ReactJS
 -mengerti tailwind
 -membuat landing page
+-belajar data stucture
 -menjadi front end web developer
 -belajar menjadi back end developer
