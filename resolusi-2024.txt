@@ -1,3 +1,5 @@
 2024 Resolusi
 -mengerti ReactJS
 -mengerti tailwind
+-membuat landing page
+-menjadi front end web developer
