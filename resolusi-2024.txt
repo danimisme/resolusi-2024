@@ -3,3 +3,4 @@
 -mengerti tailwind
 -membuat landing page
 -menjadi front end web developer
+-belajar menjadi back end developer
